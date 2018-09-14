@@ -1,0 +1,24 @@
+High Priority release Test List:
+
+Build:
+TB-10:As a Participant/Supplier/Admin, I want to login to the system so that I can access the portal features
+TB-27:As an Admin, I want to add/edit an Activity so that Participants can access the service
+TB-72: Create 404 page
+TB-74: Set up UI themes
+TB-91: Application Menu Management
+
+TB-28:As a Participant, I want to enroll in an Activity/Service so that I can register my participation
+TB-68:As an Admin, I want to view a list of Suppliers so that I know which Suppliers have access to the portal
+TB-6:As a Participant/Supplier, I want to reset my Password so that I can access the portal again
+TB-21:As an Admin, I want to add/edit a Supplier so that they can can login to the portal
+TB-24:As an Admin, I want to search for an Activity so that I can quickly find the Activity I need
+TB-53:As a Supplier I want to search for one of my Activities so that I can quickly find the Activity I need
+TB-39:As a Participant, I want to view My Program so that I'm reminded of the Activities I need to attend	
+TB-9:As a Participant/Supplier/Admin, I want to log out of the portal so that it prevents unauthorised access when I no longer need to use the portal
+TB-11:As an Admin, I want to add/edit a Participant so that I can monitor their progress within the Bridge
+TB-22:As an Admin, I want to search for a Participant so that I can quickly find the Participant I need
+TB-25:As an Admin, I want to view a list of Activities so that I know the Activities that have been scheduled
+TB-34:As a Participant, I want to view all the Activities for the Suppliers nominated for me so that I know what Activities I can enroll in
+TB-82:As an Admin, I want to view a list of Participants so that I know who has been registered in the portal
+TB-12:As a Participant/Supplier, I want to activate and create a password for my account so that I can login to the portal
+TB-88:As a Participant/Admin, I want to view an Activity so that I can view the details of an Activity that has been scheduled
